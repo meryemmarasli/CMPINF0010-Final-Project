@@ -8,6 +8,6 @@ Team Members:
 *
 *
 
-Description/Links(edit this heading later):
+Description/Links:
 
 Abstract:
