@@ -7,8 +7,9 @@ Team Members:
 * Michael Henry: mlh184@pitt.edu
 * Meryem Marasli: mgm103@pitt.edu
 
-Description/Links:
+Links to Datasets:
 * Playgrounds: https://data.wprdc.org/dataset/playgrounds
+   * Used to determine the number of playgrounds in each neighborhood. 
 * Playing Fields: https://data.wprdc.org/dataset/playing-fields
 * Pools: https://data.wprdc.org/dataset/city-pools
 
