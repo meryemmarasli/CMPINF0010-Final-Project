@@ -1,6 +1,6 @@
 # CMPINF0010-Final-Project
 
-Team Name: 
+Team Name: M.E.M
 
 Team Members:
 
