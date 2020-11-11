@@ -11,6 +11,8 @@ Links to Datasets:
 * Playgrounds: https://data.wprdc.org/dataset/playgrounds
    * Used to determine the number of playgrounds in each neighborhood. 
 * Playing Fields: https://data.wprdc.org/dataset/playing-fields
+  * Used to determine the number of playing fields in each neighborhood.
 * Pools: https://data.wprdc.org/dataset/city-pools
+  *
 
 Abstract:
