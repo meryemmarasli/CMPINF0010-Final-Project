@@ -13,6 +13,6 @@ Links to Datasets:
 * Playing Fields: https://data.wprdc.org/dataset/playing-fields
   * Used to determine the number of playing fields in each neighborhood.
 * Pools: https://data.wprdc.org/dataset/city-pools
-  *
+  * Used to determine the largest capacity in gallons of pools in each neighborhood
 
 Abstract:
