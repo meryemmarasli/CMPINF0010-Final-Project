@@ -16,3 +16,4 @@ Links to Datasets:
   *
 
 Abstract:
+In our opinion, the best neighborhood is determined based on how many outside facilities - pools, playgrounds, and playing fields - that a neighborhood has. These facilities allow for people to enjoy the outside, which has been proven very important during the current COVID-19 pandemic. From these metrics, we determined that the best neighborhood was Highland Park.
